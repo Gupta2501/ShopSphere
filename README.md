@@ -23,9 +23,6 @@ It supports browsing products, managing a shopping cart, and placing orders dyna
 - **Backend**: Java 17, Spring Boot 2.7+, Spring Data JPA
 - **Database**: MySQL
 - **Authentication**: (Basic authentication setup, ready for JWT expansion)
-- **Containerization**: Docker ready (optional)
-
-
 
 ## 🚀 Running Locally
 
