@@ -1,4 +1,4 @@
-﻿# E-Commerce Website 🛒
+﻿# ShopSphere 🛒
 
 This project is a full-stack E-Commerce web application built with **Spring Boot**, **MySQL**, and **Angular**.  
 It supports browsing products, managing a shopping cart, and placing orders dynamically.
